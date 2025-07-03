@@ -1,5 +1,5 @@
 
-const song = new Audio('./assets/Locksmith.mpeg');
+const song = new Audio('./images/Locksmith.mpeg');
 
 
 const playBtn = document.querySelector('.fa-play');
